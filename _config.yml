@@ -1,6 +1,6 @@
 # Site settings
 title: wugian Blog
-SEOTitle: wugian的博客 | BY wugian
+SEOTitle: wugian的博客
 header-img: img/post-bg-desk.jpg
 email: sissilove812@gmail.com
 description: "那个人好像一条狗啊"
@@ -18,7 +18,7 @@ sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's us
 
 # SNS settings
 RSS: false
-zhihu_username:     wugian
+#zhihu_username:     wugian
 github_username:    wugian
 
 
